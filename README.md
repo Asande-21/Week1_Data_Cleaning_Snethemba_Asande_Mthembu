@@ -27,7 +27,7 @@ The goal is to identify, investigate, and correct these issues step by step whil
 data-cleaning-week-1/
 │
 ├── applicants.csv
-├── cleaned_applicants.csv
+├── applicants_cleaned.csv
 ├── data_cleaning.ipynb
 └── README.md
 ```
@@ -36,7 +36,7 @@ data-cleaning-week-1/
 
 The project uses `applicants.csv`, a practice dataset containing intentionally introduced data-quality issues, such as missing values, duplicate records, and other inconsistencies.
 
-The project also includes `cleaned_applicants.csv`, which will contain the cleaned version of the original dataset after applying appropriate data-cleaning techniques.
+The project also includes `applicants_cleaned.csv`, which will contain the cleaned version of the original dataset after applying appropriate data-cleaning techniques.
 
 Keeping both datasets makes it possible to compare the original data with the cleaned data and evaluate the improvements made during the cleaning process.
 
@@ -63,15 +63,12 @@ Both datasets are used for educational purposes to practise data inspection, cle
 - Writing clear, reproducible Python code
 
 ## 🚧 Project Status
-
-**In Progress**
-
-I am completing this project step by step as part of my Data Science learning journey. More cleaning techniques and findings will be added as I progress.
+*DONE*
 
 ## 👨‍💻 Author
 
 **Snethemba Asande Mthembu**
 
-Computer Science & Data Science Student
+Computer Science & Data Science Student Major
 
 Interested in Data Science, Artificial Intelligence, Machine Learning, and building practical software solutions.
